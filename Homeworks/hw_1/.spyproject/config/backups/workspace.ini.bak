@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['..\\..\\..\\KocPythonFall2021\\inclass\\5APIs\\wb.py', '..\\hw_2\\untitled1.py']
+recent_files = ['..\\hw_2\\linear_regression.py', '..\\hw_2\\gatherData_run.py', '..\\hw_2\\test.py']
 
